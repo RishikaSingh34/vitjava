@@ -1,0 +1,57 @@
+# Compiled class files
+*.class
+bin/
+build/
+out/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+student_management.db
+
+# Log files
+logs/
+*.log
+
+# Reports
+reports/
+*.txt
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Gradle
+.gradle/
+build/
+
+# JAR files (except libraries)
+*.jar
+!lib/*.jar
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
